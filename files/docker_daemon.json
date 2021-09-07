@@ -1,4 +1,5 @@
 {
+    "dns": ["8.8.8.8"],
     "log-driver": "journald",
     "storage-driver": "overlay2"
 }
